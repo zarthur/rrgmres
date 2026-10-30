@@ -1,0 +1,5 @@
+fixed x: [0.29411765 0.58823529]
+fixed residuals: [1.41421356 0.72760688]
+fixed iterations: 1
+fixed history shape: (2, 2)
+discrepancy: 1 residual: 0.72760688 status: discrepancy matvecs: 3

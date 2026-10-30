@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rrgmres"
+version = "0.1.0"
+description = "Range-restricted GMRES for square linear systems"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.21"]
+
+[tool.setuptools]
+py-modules = ["rrgmres"]
