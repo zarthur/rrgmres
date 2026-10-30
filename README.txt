@@ -98,3 +98,6 @@ Step 5. Remove the files with the command rm file_name, where
 The file primer.pdf contains the manual in PDF form.
 
 See http://rave.ohiolink.edu/etdc/view?acc_num=kent1273611079 for more information about this algorithm.
+
+Python/NumPy rewrite branch:
+https://github.com/zarthur/rrgmres/tree/codex/rrgmres-python
